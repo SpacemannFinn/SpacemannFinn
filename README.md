@@ -2,7 +2,7 @@
   👋 Hi, I’m Nen 👋
 </h1>
 
-### I'm a teacher, youtube person and general dipstick on the internet
+### I'm  ~~a teacher~~ free at last, youtube person and general dipstick on the internet
 
 
 - 👀 I’m interested in learning more about web design, building little fun projects in C# and Python and growing my overall skills with micro-controllers. 
